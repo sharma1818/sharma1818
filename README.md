@@ -1,4 +1,4 @@
-![logo]https://github.com/sharma1818/sharma1818/blob/main/header_gif.gif
+![logo](https://github.com/sharma1818/sharma1818/blob/main/header_gif.gif)
 <h1 align="center">Hi 👋, I'm Siddharth Sharma</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
